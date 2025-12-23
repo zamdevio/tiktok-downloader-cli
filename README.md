@@ -82,9 +82,3 @@ The tool can display your per‑minute and daily limits and reset times using th
 - Telegram: https://zamdevio.t.me
 - Telegram Bot: https://t.me/TikTok_DownloaderiBot
 - GitHub: https://github.com/zamdevio
-
----
-
-## 📝 License
-
-[LICENCE](LICENCE)
