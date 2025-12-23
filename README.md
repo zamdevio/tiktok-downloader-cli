@@ -87,4 +87,4 @@ The tool can display your per‑minute and daily limits and reset times using th
 
 ## 📝 License
 
-Add your preferred license here.
+[LICENCE](LICENCE)
